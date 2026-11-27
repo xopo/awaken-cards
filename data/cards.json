@@ -1,0 +1,2275 @@
+{
+  "categories": [
+    { "id": 1, "title": "Actuality & Story" },
+    { "id": 2, "title": "Beauty & Celebration" },
+    { "id": 3, "title": "Body & Emotion" },
+    { "id": 4, "title": "Change & Learning" },
+    { "id": 5, "title": "Conditions & Causality" },
+    { "id": 6, "title": "Control, Doing & Choice" },
+    { "id": 7, "title": "Defence, Anger & Triggers" },
+    { "id": 8, "title": "Freedom & Spontaneity" },
+    { "id": 9, "title": "Identity & Self" },
+    { "id": 10, "title": "Immediate Use" },
+    { "id": 11, "title": "Inquiry as Play" },
+    { "id": 12, "title": "Meaning & Suffering" },
+    { "id": 13, "title": "Past & Future" },
+    { "id": 14, "title": "Preference, Resistance & Acceptance" },
+    { "id": 15, "title": "Relationships" },
+    { "id": 16, "title": "Seeking & Awakening" },
+    { "id": 17, "title": "The Ordinary" },
+    { "id": 18, "title": "The Rigged Courtroom" },
+    { "id": 19, "title": "The Safety Buffer & Not-Knowing" }
+  ],
+  "cards": [
+    {
+      "category": 1,
+      "text": "Events first, stories second.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "What is actual is what is happening now; everything else arrives as thought, memory, prediction, or interpretation.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A description tells what happened; a meaning-story tells what it supposedly says about life or about you.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A story can be accurate and still be a story.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "“Story” does not mean false; it means conceptual.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "The thought is actual now, but what the thought describes may not be.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A memory is happening now; the remembered event is not.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A prediction is happening now; the predicted future is not.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Notice the instant an event becomes a meaning.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "The situation may be simple while the story about it is enormous.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Ask: what happened before thought explained what it meant?",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Meaning is added to events; it is not printed on them.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A plate does not say “messy,” “irresponsible,” or “bad mother.”",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A sensation does not come with subtitles.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A thought can sound like reality without being reality.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "“Obviously” often means a story has stopped expecting examination.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "What is known, and what is merely being inferred?",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Can this be described without good, bad, should, always, never, or because?",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "The more personal the meaning becomes, the further the story may have travelled from the event.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Notice when “this happened” quietly becomes “this says something about me.”",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A current event does not automatically contain a biography.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Stories are useful servants and troublesome authorities.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "You do not need to eliminate stories; you need to recognise their status.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "A useful story can guide action without pretending to be reality itself.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Interpretation may be helpful, but it remains interpretation.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Before solving the meaning, check what is actually here.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "What is the smallest honest description of this moment?",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "The story may be loud; actuality is usually simpler.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "The mind often turns possibility into certainty without announcing the promotion.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 1,
+      "text": "Move a thought from the truth basket into the possibility basket and see what changes.",
+      "prompt": "What is actually happening before interpretation is added?"
+    },
+    {
+      "category": 12,
+      "text": "Much suffering begins when an event acquires a personal meaning.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Pain may be unavoidable while the biography built around pain is additional.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "The first arrow hurts; the second arrow explains why the hurt should not be happening.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Ask what is painful, then ask what thought is adding to the pain.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "The event may last seconds while its meaning can be rehearsed for years.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "A difficult moment does not need to become a difficult life.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "One unpleasant hour has no authority over the next six months.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Disappointment contains what happened plus an imagined version of what should have happened.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Shame often begins when an event is turned into evidence about identity.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Guilt can point toward an action; shame tries to define a person.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "A reaction is real even when the story that triggered it is uncertain.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Feeling frightened does not prove that danger exists.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Feeling ashamed does not prove that something shameful has occurred.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Feeling rejected does not prove that rejection happened.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "A real bodily response can be produced by an imaginary future.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "The body reacting to a story does not make the story true.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Thought says “see how bad this feels,” then uses the feeling as evidence for itself.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Sometimes two witnesses—thought and sensation—are merely confirming each other.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "The strongest reaction may reveal that a deeper meaning has been added.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Ask: what would this have to mean for this reaction to make sense?",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Do not assume the first visible story is the story carrying the pain.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Dirty dishes may be about dishes, or they may have become a report card on motherhood.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "A crooked cushion can become a tiny laboratory for the demand that things be different.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "The thing being fixed outside may sometimes be discomfort being regulated inside.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Helping another person can also be helping yourself feel better.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Mixed motives do not invalidate kindness.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "Practical action does not require emotional punishment.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "A problem can need fixing without anybody needing to be blamed.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "The bolt can be installed incorrectly without the worker becoming an idiot.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 12,
+      "text": "A mistake can be corrected without creating a defective person.",
+      "prompt": "What meaning has been added to the event?"
+    },
+    {
+      "category": 13,
+      "text": "The past appears now as memory.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "The future appears now as imagination.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Yesterday is never experienced as yesterday; it is remembered now.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Tomorrow can frighten the body long before tomorrow arrives.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Thought can create an entire Thursday before Wednesday is finished.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "A rehearsal for tomorrow can become today’s suffering.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "The future has not yet agreed to any prediction.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "“This will always be like this” is a story wearing a calendar.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "“This always happens” usually compresses a messy history into a convenient slogan.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "The current moment cannot prove permanence.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "A bad morning does not know what the afternoon will be.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "A good afternoon does not promise tomorrow either.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Hope and despair are both stories about what has not happened yet.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Hope can arise lightly or become desperate when the future is asked to rescue the present.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Let hope be weather rather than a contract.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Expectation often carries more disguised certainty than hope.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "The future may deserve planning without deserving belief.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Planning is useful; living inside imagined outcomes is optional.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "Memory can inform the present without becoming a prison sentence.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 13,
+      "text": "History influences what arises without dictating what must arise next.",
+      "prompt": "Is this happening now, or appearing now as memory or imagination?"
+    },
+    {
+      "category": 3,
+      "text": "Before asking what a feeling means, notice what the feeling actually consists of.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Tightness is tightness before it becomes anxiety.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Heat is heat before it becomes anger.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Wet eyes are wet eyes before they become a psychological theory.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "The body does not need an explanation in order to be felt.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "A feeling can remain unanswered.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Not knowing why sadness is here does not make sadness incomplete.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "The trapdoor under thought leads back to current experiencing.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "When thought says “something is wrong,” look beneath the sentence.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Thought may lead horizontally into explanation while sensation opens vertically into what is here.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Do not make the body an oracle just because thought has been unreliable.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Sensation is information, not prophecy.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Fear can be present without being a prediction.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Anger can be present without becoming an identity.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Sadness can be present without becoming a life story.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Jealousy can be present without producing a jealous person.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "The organism can react before the narrator has anything to say.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Primary reactions do not need spiritual correction.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Feelings need not become evidence of failure.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "A difficult emotion is not confirmation of anything beyond its own occurrence.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Sometimes the feared thing is not the feeling but what having the feeling supposedly means.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Crying may hurt less than the story “crying proves I am a mess.”",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "The way out of messiness may be through allowing messiness to be present.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Resistance to an emotion can be more exhausting than the emotion.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "You do not have to like a feeling to stop fighting its existence.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Can this sensation soften one percent without demanding that it disappear?",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "The aim is not to manufacture calm but to stop making discomfort into a verdict.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Sometimes direct experiencing is sharper and still less painful than the story wrapped around it.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "A raw feeling can be intense without being enormous.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 3,
+      "text": "Let sensation be sensation before deciding whose fault it is.",
+      "prompt": "Without the label, what is actually felt?"
+    },
+    {
+      "category": 14,
+      "text": "Preference is not the problem; demand is where suffering often begins.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "“I prefer this” is different from “this must happen.”",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "You can hate the cold without requiring winter to apologise.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Dislike does not require resistance.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Acceptance does not mean approval.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Acceptance means the event has already been admitted by reality.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "You can accept what happened and still act to change what happens next.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "A boundary does not require condemnation.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Love does not require approving every behaviour.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Caring does not require worrying.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Concern can guide action without becoming an internal emergency.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Preference can remain while ownership and demand loosen.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Equanimity is not emotional beige.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Freedom is not becoming indifferent.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Lightness is different from apathy.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Things can matter without becoming identity.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "A strong preference can occur without a separate owner of preference.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "“I hate this” may be perfectly honest and completely harmless.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Notice what gets added after the simple “ugh.”",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Cold, dislike, coat—nothing more may be required.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Pleasure becomes troublesome when thought demands that it remain.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Pain becomes heavier when thought demands that it leave.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Picking and choosing can mean gripping the pleasant as much as rejecting the unpleasant.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "You can love the song without requiring it never to end.",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 14,
+      "text": "Can the beautiful thing be temporary without becoming less beautiful?",
+      "prompt": "Is this a preference, or has it become a demand?"
+    },
+    {
+      "category": 6,
+      "text": "Choosing happens; a separate chooser is harder to find.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Decisions happen before the narrator finishes explaining why they happened.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The narrator may be the announcer rather than the author.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "A reason can arrive after an action and claim parentage.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Intention happens without revealing an independent intender.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Planning happens without proving a planner exists outside the planning.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Action does not need an internal CEO.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "A hand moves, then thought says “I moved it.”",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The sentence “I decided” may be a convenient social description rather than a causal report.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Control itself can appear as part of uncontrolled happening.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Trying not to control can become another form of control.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Surrender cannot be forced.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The idea of letting go is itself something that turns up.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The opposite of doing is not necessarily not-doing.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Doing and not-doing can both become irrelevant when functioning becomes ordinary.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Useful behaviour can happen mechanically because the organism already learned it.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Knowledge can express itself without continuous supervision.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The guitar can get repaired without a separate responsible person standing behind the repair.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "There can be consequences without metaphysical responsibility.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Responsibility is often a social story laid over conditions and consequences.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Ownership is useful convention, but no invisible ownership-connection can actually be shown.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "A receipt proves a transaction, not an inherent bond called ownership.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The guitar never knew who owned it.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "The broken thing does not need guilt; it needs conditions that change its functioning.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 6,
+      "text": "Life can respond intelligently without being personally managed.",
+      "prompt": "Can a separate controller actually be found?"
+    },
+    {
+      "category": 5,
+      "text": "Conditions all the way down means nothing stands alone.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Every event depends on more conditions than any story can contain.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Tracing causes far enough reveals an expanding web rather than a single author.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "A person is one set of conditions meeting another set of conditions.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Behaviour makes more sense when seen as conditioned responding rather than isolated authorship.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Understanding conditions can loosen blame without requiring approval.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Compassion becomes easier when behaviour is seen in context.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Your history is a condition, not a sentence.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Knowledge itself becomes one of the conditions shaping what happens next.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Learning happens because events alter conditions.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "A mistake becomes useful when it changes the conditions for the next attempt.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Nothing needs to be morally wrong for learning to occur.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Consequences teach without requiring a guilty self.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "The organism changes because experience changes it.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Words may point, but experience changes conviction.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Beliefs often fade through repeated disconfirmation rather than argument.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Do not root out the trigger; get close enough to see what it really is.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "A trigger can wear itself out when it is no longer continually defended or opposed.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "Old conditioning returning does not mean old conditioning has won.",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 5,
+      "text": "A new pattern and an old pattern can alternate without either being the “real you.”",
+      "prompt": "What conditions are visible here, and what is being attributed to an author?"
+    },
+    {
+      "category": 9,
+      "text": "A name labels a person; it does not reveal an entity inside the person.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Look for the self before deciding what it is.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Can anything be found beyond sensations, thoughts, memories, reactions, and functioning?",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "The sense of self is an event; it does not automatically prove an independent self.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Feeling like a self and finding a self are different things.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Identity is often a story built from repeated descriptions.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "“I am anxious” is heavier than “anxiety is happening.”",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "“I am angry” can quietly turn a temporary event into a person.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "An event becomes identity when thought says “this is what I am.”",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "The self is extremely employable as manager, judge, victim, controller, and defendant.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "The courtroom can keep arguing even when no defendant can be found.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Who exactly is progressing?",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Who exactly is failing?",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Who exactly owns this thought?",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Who chose the next thought before it arrived?",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Who is being protected when defensiveness erupts?",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "The person underneath may be another story about a person underneath.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "There may be no hidden “real me” beneath changing conditioned patterns.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Self-worth is a scoreboard that may not need a better score.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 9,
+      "text": "Instead of increasing self-worth, see whether the whole concept of worth is necessary.",
+      "prompt": "What can actually be found that makes this a fixed identity?"
+    },
+    {
+      "category": 16,
+      "text": "The goal can create the seeker who supposedly needs to reach it.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Before the thought “I am seeking” appears, is a seeker actually present?",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Searching for non-seeking is still seeking.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The seeker can cross the finish line and keep running because thought expects a bigger finish line.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The expected threshold may be a canyon while the actual shift is a line painted on the road.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "A dramatic event is not required for a dramatic reduction in suffering.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Ordinary change can be overlooked because it does not announce itself.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Less urgency may be more significant than a spectacular state.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Faster recovery may matter more than never being triggered.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Not checking whether anything has changed may itself be evidence that something changed.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "An ordinary afternoon without seeking rarely gets entered into the spiritual record.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The scoreboard can make improvement into another identity project.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Pleasantness is not proof of progress.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Difficulty is not proof of regression.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "A terrible day proves almost nothing about the whole trajectory.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Awakening can be a useful story describing changed patterns of responding.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "No independently existing thing called enlightenment needs to be acquired.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The label is not the happening.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Stories may continue while their authority weakens.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The narrator may remain without being automatically believed.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "A thought such as “I am not awake” is itself part of what is happening now.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The search continues partly because imagined arrival keeps moving into the future.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "What if nothing important is missing before the thought “something is missing” appears?",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The organism may already be living differently while thought keeps demanding a certificate.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Freedom can be too ordinary to satisfy the seeker’s imagination.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "Toast may reveal more than fireworks.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "The absence of suffering rarely produces a headline.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "There may be no moment when a bell rings and life announces completion.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "A shift can be retrospective: “I don’t react the way I used to.”",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 16,
+      "text": "No final state is required for life to become much lighter.",
+      "prompt": "What is missing before the thought says something is missing?"
+    },
+    {
+      "category": 19,
+      "text": "Stories can act as a safety buffer between experience and the organism.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Explanation can create distance from what is being felt.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Knowing why can feel safer than simply feeling what is here.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Familiarity often impersonates safety.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Familiar suffering can feel safer than unfamiliar ease.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "The cage can feel protective because its walls are familiar.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Direct experiencing can initially feel frighteningly narrow without past and future surrounding it.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "“Only this” feels small only when compared with an imagined larger world.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Without the ruler, immediacy has no size.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 19,
+      "text": "Not-knowing is dangerous only inside the story that says certainty is required.",
+      "prompt": "What happens if this remains unexplained for ten seconds?"
+    },
+    {
+      "category": 17,
+      "text": "The ordinary becomes magnificent when it no longer has to become special.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Nothing special happening does not mean nothing is happening.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "“Nothing happened today” usually means nothing happened that the narrator considered important.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "A kettle boiling contains more actuality than a thousand stories about tomorrow.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Beauty does not need to announce itself.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Magnificence need not feel magnificent.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "The search for beauty can obscure the small beauty already here.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "The word “beautiful” often arrives after the response has already begun.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "A dish can remain a dish without becoming sacred to be fully experienced.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "The ordinary needs no spiritual decoration.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "A dog sleeping can be completely enough without meaning anything.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Rain does not know it is rain.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Rain has no responsibility to keep raining.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "The weather does not carry a biography.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "What if this organism is another changing feature of the weather?",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "The rain rains until it doesn’t.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Life happens with the same lack of commentary as weather until thought comments on it.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Sometimes intimacy with experience is deepest when nobody thinks “this is beautiful.”",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Not noticing a lovely moment may mean there was nobody standing outside it to score it.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 17,
+      "text": "Coffee, traffic, dog hair, laughter, disappointment, and dishes are most of a life.",
+      "prompt": "What is here before anything is asked to become special?"
+    },
+    {
+      "category": 15,
+      "text": "Another person’s behaviour does not automatically contain a message about you.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "A child’s life is not a parent’s report card.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Influence is real without authorship being total.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Someone’s suffering does not prove that you failed them.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Someone’s anger does not automatically mean you did something wrong.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Someone’s praise does not establish your worth.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Someone’s criticism does not remove your worth.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Their story about you remains their story about you.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "You do not need to change another person’s interpretation before living freely.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Helping can become control when the other person is required to change so that you can feel okay.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "The most useful help may sometimes be waiting for an opening.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Living differently may communicate more than explaining differently.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "A boundary can be clean when it is not carrying a moral prosecution.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "You can say no without turning either person into the villain.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Compassion does not require staying in harmful circumstances.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Love can remain when roles and expectations change.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Connection does not require agreement.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Being accompanied can change how threatening a feeling becomes.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "A nervous system can learn from another person’s calm without anyone deliberately teaching it.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 15,
+      "text": "Sometimes being received while messy is more transformative than being advised how to improve.",
+      "prompt": "What happened, and what did it supposedly mean about you?"
+    },
+    {
+      "category": 7,
+      "text": "Aggression may be fear wearing armour.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Defending your rights can quietly become defending a story of “me.”",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "A dangerous driver can require defensive driving without requiring an hour of hatred.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "The survival response may last seconds while the story keeps the body activated all morning.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "A trigger is useful precisely because it makes hidden identification visible.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Do not waste a good trigger by immediately trying to remove it.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "The thing that triggers you may be showing exactly where reality and story are still fused.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Road rage can be Inquiry at seventy kilometres an hour, provided the driving remains safe.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "A strong reaction is not spiritual failure; it is clear material.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "When identification is obvious, there is less need to search for it.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Notice what is being defended before judging the defence.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Hatred can be spontaneous while the hours of commentary afterward are additional.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "The reaction may be authentic without being necessary.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "A person can behave foolishly without becoming an inherently foolish person.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "The aim is not to approve the reckless driver but to stop carrying them to work inside your head.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "The trigger can eventually become a non-event without ever being argued away.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Opposite stories can keep the original trigger alive.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "“They’re not better than me” still preserves the scoreboard of better and worse.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Defensiveness often reveals the identity being protected.",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 7,
+      "text": "Ask: what would remain if this familiar defensive energy no longer powered the day?",
+      "prompt": "What is being defended right now?"
+    },
+    {
+      "category": 4,
+      "text": "Recognition does not need to be fast to be recognition.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Catching the story five minutes later is different from never catching it.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Celebrate seeing the pattern rather than scolding how long it took to see it.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "The organism learns through repetition without needing a manager to enforce the lesson.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "What is initially deliberate can eventually become spontaneous.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "You may know something intellectually long before the body responds as if it knows.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Knowing a story is a story does not mean the organism immediately stops believing it.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Repeated recognition changes the relationship even before the story disappears.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "The thought may keep turning up after its authority has already begun fading.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "The final disappearance of a story matters less than no longer being carried away by it.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Old pathways can activate without defining the current baseline.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Change can be real even when old patterns still visit.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "A pendulum at the bottom has not forgotten the top.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "The low point makes other states harder to remember, not less real.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Do not let today’s mood rewrite the history of every improvement.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Bad states are not more truthful merely because they are louder.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Good states are not less real merely because they are quiet.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "The prosecution should not be allowed to decide which evidence counts.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Recovery is evidence too.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 4,
+      "text": "Absence of disturbance is easy to miss because nothing announces it.",
+      "prompt": "What evidence of change is easy to overlook?"
+    },
+    {
+      "category": 18,
+      "text": "A bad day says “proof” while a good day says nothing.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Old reactions are often admitted as evidence while new ease is dismissed as a fluke.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Do not let one anxious morning claim jurisdiction over your whole life.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "An unpleasant state can be true without its verdict being true.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Anxiety is actual; “nothing has changed” is interpretation.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Recovery is actual; remember to admit it into evidence.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "A quiet Tuesday may contain more change than a dramatic spiritual experience.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "The mind remembers disruption because disruption demands attention.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "The absence of suffering is rarely memorable while it is happening.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Correcting negative bias is not positive thinking; it is completing the evidence.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Do not hire a defence attorney who lies either.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "A terrible day can simply be a terrible day.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Persistent worsening deserves practical attention without becoming personal indictment.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Familiar pain can feel more authoritative than unfamiliar ease.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "The defendant may disappear before the court does.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "Ask who exactly is on trial when thought declares spiritual failure.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "No verdict is required when the defendant cannot be found.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "“Regression” assumes a straight road that may never have existed.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "One reactivation does not erase months of changed responding.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 18,
+      "text": "A bad day is an event, not confirmation of a person.",
+      "prompt": "What evidence has the prosecution ignored?"
+    },
+    {
+      "category": 11,
+      "text": "Inquiry works better as discovery than as homework.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Curiosity sees more than self-correction.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "The aim is not to get the right answer but to see what is actually there.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "A strange reaction is an invitation, not a problem.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Let the crooked cushion show you what it has to show.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Deliberately create a harmless tiny trigger and watch what arises.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Do not endure the trigger heroically; investigate it playfully.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Ask “what else is happening here?” instead of “what is wrong with me?”",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Ask “what would have to be believed?” rather than forcing a hidden cause.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Stop when Inquiry becomes another attempt to perfect yourself.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "If the experiment is being controlled to prove non-control, notice the joke.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "A failed Inquiry can be excellent Inquiry if failure itself becomes visible.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Confusion is useful when it exposes assumptions that certainty had hidden.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Love confusion when it means an old explanation has stopped working.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Not-knowing is often the cleanest available answer.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Leave the question open when no answer is actually present.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "A question can be a trapdoor rather than a demand for explanation.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Sometimes the best response to “why?” is to look at what is happening before answering.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Do not turn direct experiencing into another technique for producing a state.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 11,
+      "text": "Discovery ends when you already know what you are supposed to find.",
+      "prompt": "What becomes interesting if there is nothing to achieve?"
+    },
+    {
+      "category": 8,
+      "text": "Freedom may look more like spontaneity than serenity.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Authenticity can be messy, loud, soft, angry, playful, or quiet.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The dancer in the sand was moving before anybody decided what her freedom meant.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "What moves you in another person may be something their behaviour awakens here.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The freedom you recognise in another may be recognisable because the organism already knows its flavour.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Flow is functioning before commentary claims it.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The thought “I’m in flow” usually arrives after flow has already been happening.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Music can happen without a musician monitoring the music.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Play teaches without needing to call itself learning.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Spontaneity returns when rules stop being mistaken for reality.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Social rules can be followed without being worshipped as truth.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "A purpose may be useful without life inherently needing one.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Productivity is a game rule, not a law of the universe.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "A goal can be played with without becoming a measure of worth.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The playful child may not need to be created; it may only need less supervision.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "Freedom can include responsibility stories without being tethered by them.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The dancer may still have bills; the bills simply were not dancing her.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "What matters is not whether stories disappear but whether they tether the organism.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The world opens when the stories cease functioning as walls.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 8,
+      "text": "The safety buffer becomes transparent when life no longer needs explanation before it can be lived.",
+      "prompt": "What is happening before commentary claims it?"
+    },
+    {
+      "category": 2,
+      "text": "Beauty can be completely ordinary.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "A shaft of light does not need to teach anything.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Rain can be beautiful without knowing it is rain.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "The magnificence of the ordinary appears when specialness stops being demanded.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "There is no small experience once the need for a bigger experience relaxes.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "A teaspoon against a cup can be enough.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "The refrigerator humming is not waiting for a better moment.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "A dog’s sigh may be the entire universe required for that second.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Beauty can sit beside grief without curing it.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Tenderness does not require everything to be pleasant.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "The ordinary can be magnificent even while you are irritated.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Nothing needs a cosmic meaning to be deeply affecting.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "A sunset does not need to explain existence.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "The picture of the sunset is not the sunset.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "The word “beautiful” is late to the event.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "The world does not need to glow before it is fully here.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "A moment can be complete without anybody appreciating it properly.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Do not turn gratitude into another obligation.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Boredom is allowed inside the magnificent ordinary too.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 2,
+      "text": "Sometimes the celebration is simply that nothing needs to happen next.",
+      "prompt": "Can this be left exactly as ordinary as it is?"
+    },
+    {
+      "category": 10,
+      "text": "What is actual right now?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Description or meaning?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Is this happening, or being imagined?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What does the body actually say?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Does this sensation know the future?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What was here before the explanation?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What got added?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What does this supposedly mean about me?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Could it mean something else?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Do I actually know?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Is this fact, possibility, or prediction?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Where is the defendant?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Where is the controller?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Was the next thought chosen?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Is this preference or demand?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can dislike be enough?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can this remain unanswered?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What happens if I don’t fix this for ten seconds?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What if this feeling needs nothing?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Am I solving the event or regulating discomfort?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Is this safe, or merely familiar?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Who says this should be different?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What does “should” add?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What does “always” add?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What does “never” add?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What does “because” claim to know?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What is the story’s job here?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Does this story help action or create suffering?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can the story stay without being believed?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can the reaction stay without becoming identity?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can pain remain pain without biography?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can anger remain anger without prosecution?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can sadness remain sadness without prediction?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can pleasure remain pleasure without gripping?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can uncertainty remain uncertainty?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Can “I don’t know” be enough?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What is missing before thought says something is missing?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What problem exists before the story names one?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Who needs this moment to become spiritual?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What if nothing has gone wrong?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What if this proves nothing?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What evidence did the mind forget to count?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "How quickly did recovery happen?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What went unnoticed because it went well?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Was there suffering before the meaning appeared?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Where is the past except in this thought?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "Where is the future except in this thought?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What happens when the camera stops zooming out?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What if this is enough for now?",
+      "prompt": "Look now rather than answering from memory."
+    },
+    {
+      "category": 10,
+      "text": "What if the next thing simply happens?",
+      "prompt": "Look now rather than answering from memory."
+    }
+  ]
+}
