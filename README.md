@@ -1,5 +1,7 @@
 # Awakening Flashcards
 
+![Awakening Flashcards TUI](assets/screenshot.png)
+
 A fast, keyboard-driven terminal flashcard application built in Rust using [Ratatui](https://ratatui.rs/) and [Crossterm](https://github.com/crossterm-rs/crossterm).
 
 Designed for focused, distraction-free study sessions directly in your terminal, featuring content inspired by [Discover Awakening Flash Cards](https://1ness.info/Discover_Awakening_Flash_Cards.html).
@@ -19,22 +21,25 @@ Designed for focused, distraction-free study sessions directly in your terminal,
 ## Keyboard Controls
 
 ### Global
-| Key | Action |
-| :--- | :--- |
+
+| Key   | Action                                                    |
+| :---- | :-------------------------------------------------------- |
 | `Tab` | Switch active focus between **Cards** and **Decks** panes |
-| `q` | Quit the application |
+| `q`   | Quit the application                                      |
 
 ### Flashcard Navigation
-| Key | Action |
-| :--- | :--- |
-| `f` | Flip current card between Front and Back |
-| `→` / `l` | Next card |
-| `←` / `h` | Previous card |
 
-### Deck Navigation *(when Decks pane is active)*
-| Key | Action |
-| :--- | :--- |
-| `↓` / `j` | Next deck / category |
+| Key       | Action                                   |
+| :-------- | :--------------------------------------- |
+| `f`       | Flip current card between Front and Back |
+| `→` / `l` | Next card                                |
+| `←` / `h` | Previous card                            |
+
+### Deck Navigation _(when Decks pane is active)_
+
+| Key       | Action                   |
+| :-------- | :----------------------- |
+| `↓` / `j` | Next deck / category     |
 | `↑` / `k` | Previous deck / category |
 
 ---
@@ -84,9 +89,11 @@ Cards and categories are loaded at startup from `./data/cards.json`:
 ## Getting Started
 
 ### Prerequisites
+
 - [Rust & Cargo](https://www.rust-lang.org/tools/install) (2021 or 2024 edition)
 
 ### Run the Application
+
 ```bash
 git clone <your-repo-url>
 cd awakening-flashcards
